@@ -1,2 +1,2 @@
-# html-css
+# estudos html-css
 Coisas que eu fiz :)
